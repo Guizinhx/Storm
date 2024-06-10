@@ -30,19 +30,18 @@ h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#div1{
+#div3{
     background-color: #131F2B;
     position: absolute;
     border: 1px solid black;
     margin-top: 14px;
-    margin-right: 90px;
+    margin-right: 100px;
     padding: 20px;
     border-radius: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
    
 }
-
 #p1{
     text-align:left;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
@@ -72,7 +71,7 @@ button:hover {
     position: absolute;
     margin-top: 550px;
     padding: 20px;
-    margin-right: 80px;
+    margin-right: 100px;
     border-radius: 30px;
     border: 1px solid black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -130,7 +129,7 @@ a{
     color: yellow;
 }
 .container{
-    max-width:200px;
+    max-width:300px;
     max-height:150px;
     width: auto;
     height: auto;
@@ -164,4 +163,30 @@ footer{
     background-color: #131F2B;
     border: 1px solid white
 }
-
+#div1{
+    background-color: #131F2B;
+    position: absolute;
+    margin-top: 68rem;
+    padding: 20px;
+    margin-right: 100px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+#p3{
+    text-align:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.container4{
+    max-width:310px;
+    max-height:240px;
+    margin-left: 830px;
+    margin-top: -20rem;
+    
+}
+.container-bo6{
+    max-width:400px;
+    max-height:200px;
+    margin-bottom: -15px;
+}
