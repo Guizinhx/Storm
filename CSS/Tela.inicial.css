@@ -191,17 +191,29 @@ footer{
     margin-bottom: -15px;
 }
 @media screen and (max-width: 500px){
-    #div1,
+    #div0,
     #div2{
        display: flex;
        flex-direction: column;
        max-width: 220px;
        
+       
     }
     #div3{
         display: flex;
+        flex-direction:column-reverse;
+        max-width: 220px;
+       
+      
+    }
+    #div1{
+        display: flex;
         flex-direction: column;
         max-width: 220px;
+        margin-top: 93rem;
+    }
+    #p3{
+        display: none;
     }
     
     #p1,
@@ -218,5 +230,6 @@ footer{
     #btnAbrir{
         top: 159px
     }
+    
 
 }
